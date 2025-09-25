@@ -1,6 +1,3 @@
-# interpolacion_lineal.md
-
-```markdown
 # Método de Interpolación Lineal para Aproximación de Raíces
 
 El método de **Interpolación Lineal** (también conocido como método de la **regla falsa**) es un procedimiento numérico para aproximar raíces de una función continua `f(x)` en un intervalo `[a, b]`.
